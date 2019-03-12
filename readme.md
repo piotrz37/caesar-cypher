@@ -15,4 +15,4 @@ To encode text with a 5 letter shift you need to run:
 To decode the text with a 5 letter shift you need to run:
 `node cipher.js 'text to decode' 5 -d`
 
---- -d tells the code that it will be shifting in reverse.
+* -d tells the code that it will be shifting in reverse.
